@@ -1,5 +1,6 @@
 {
-    "name": "𓆩ᴀɴɪᴍᴀʟ𓆪™〆ᴄʜᴀᴛ𓃮",    
+    "name": "𓆩ᴀɴɪᴍᴀʟ𓆪™〆ᴄʜᴀᴛ𓃮",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
