@@ -65,7 +65,7 @@ MAIN = [
     [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-            url=f"https://t.me/Royal_Chat_Op_Bot",
+            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
@@ -80,7 +80,7 @@ PNG_BTN = [
     [
          InlineKeyboardButton(
              text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-             url=f"https://t.me/Royal_Chat_Op_Bot",
+             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
      [
