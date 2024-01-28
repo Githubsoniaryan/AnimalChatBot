@@ -20,7 +20,7 @@ UPDATE_CHNL = os.environ.get("UPDATE_CHNL","https://t.me/itsRareBeautySelenaGome
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME","https://t.me/AnimalJanwarrrr")
 SUPPORT_GRP = os.environ.get("SUPPORT_GRP","https://t.me/royalgroupop")
 BOT_NAME = os.environ.get("BOT_NAME","CHATBOT")
-START_IMG = os.environ.get("https://te.legra.ph/file/ec19cf227791a167abedc.jpg")
+START_IMG = os.environ.get("https://graph.orggraph.org/file/file/a1dbc8a95b9580430dcfc.jpg")
 
 STKR = os.environ.get("STKR")
 
