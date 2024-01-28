@@ -465,3 +465,5 @@ async def vickprivatesticker(client: Client, message: Message):
 
 print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ!")      
 BRANDEDCHAT.run()
+
+
