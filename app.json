@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Githubsoniaryan/AnimalChatBot",
+  "repository": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
