@@ -20,7 +20,7 @@ from nexichat.modules.helpers import PNG_BTN
 
 # Random Start Images
 IMG = [
-    "https://files.catbox.moe/59c8ho.jpg",
+    "https://files.catbox.moe/7jp9lq.jpg",
 ]
 
 
